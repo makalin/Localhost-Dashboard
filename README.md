@@ -24,8 +24,8 @@ A modern web-based dashboard for monitoring and managing local development serve
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/localhost-dashboard.git
-cd localhost-dashboard
+git clone https://github.com/makalin/Localhost-Dashboard.git
+cd Localhost-Dashboard
 ```
 
 2. Set up the backend:
